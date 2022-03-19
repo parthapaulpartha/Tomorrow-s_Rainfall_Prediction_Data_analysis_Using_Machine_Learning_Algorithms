@@ -1,1 +1,2 @@
-# Tomorrow-s_Rainfall_Prediction_Data_analysis_Using_Machine_Learning_Algorithms
+# Tomorrows_Rainfall_Prediction_Data_analysis_Using_Machine_Learning_Algorithms
+Rainfall Prediction is predict tomorrows rainfall prediction (Tomorrow is going to be Sunny day or Rainy day) using some machine learning algorithms like Random Forest, Decision Tree, Logistic Regression, k-Nearest Neighbors(kNN), Gaussian Naive Bayes(GaussianNB), Gradient Boosting(XGBoost), CatBoost, LightGBM and Support Vector Machine (SVM) algorithms.
